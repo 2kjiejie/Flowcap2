@@ -1,6 +1,9 @@
 # Flowcap2
 Try to slove a FC challenge
 
+The challenge discription is here:
+https://www.synapse.org/#!Synapse:syn2887788/wiki/72178
+
 The raw data is here (2872 CSV file):
 http://pengqiu.gatech.edu/MLB/CSV.zip 
 
